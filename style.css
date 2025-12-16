@@ -1,6 +1,8 @@
   body{
     background-color: white;
     background-image: url(big.jpg) ;
+    font-size: xx-large;
+
 }
  
   table{
@@ -13,3 +15,4 @@ font-size: larger;
     color: brown;
 
 }
+
